@@ -6,7 +6,7 @@ skrypt testowy (bez implementacji) w stylu Gherkin, który opisuje proces wyszuk
 ## Instalacja
 1. Sklonuj repozytorium na swój komputer:
     ```
-    git clone <adres_url_repozytorium>
+    git clone https://github.com/W3r0n1k4S/zadanie-7.git
     ```
 2. Przejdź do folderu "features" i otwórz plik: productSearchAndPurchaseProcess.feature
     ```
